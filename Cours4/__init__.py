@@ -1,0 +1,1 @@
+"""Package contenant des outils statistiques pour le cours 4"""
