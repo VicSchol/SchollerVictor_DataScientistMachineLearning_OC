@@ -23,7 +23,8 @@ venv/
 *.parquet
 *.h5
 *.zip
-
+*.rar
+*.7z
 
 # Office temp files
 ~$*.pptx
