@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Données volumineuses
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.h5
+
+# Office temp files
+~$*.pptx
+~$*.docx
+~$*.xlsx
