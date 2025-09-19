@@ -22,6 +22,8 @@ venv/
 *.xls
 *.parquet
 *.h5
+*.zip
+
 
 # Office temp files
 ~$*.pptx
