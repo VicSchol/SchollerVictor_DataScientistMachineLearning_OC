@@ -24,7 +24,8 @@ venv/
 *.h5
 *.zip
 *.rar
-*.7z
+*.7zgit remote set-url origin https://github.com/VicSchol/SchollerVictor_DataScientistMachineLearning_OC.git
+
 
 # Office temp files
 ~$*.pptx
